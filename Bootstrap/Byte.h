@@ -45,7 +45,6 @@ struct MutableSpanOfBytes {
 
 ///
 
-
 extern const struct OptionalByte initNilByte();
 
 extern const struct OptionalByte initOptionalByte(

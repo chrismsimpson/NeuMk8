@@ -9,4 +9,5 @@ add_executable(
     Neu/Tokenizer/NeuTokenizer.c
     Neu/Tokens/NeuToken.c
     Scanning/ByteScanner.c
+    Scanning/UnicodeScanner.c
 )
