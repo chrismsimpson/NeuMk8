@@ -9,9 +9,15 @@ int main() {
 
     printf("hello foo!\n");
 
+    ///
+
     struct NeuTokenizer tokenizer = initNeuTokenizer();
 
     neuTokenizerMaybeNextFunc(&tokenizer);
+
+    ///
+
+    
 }
 
 // int main() {
