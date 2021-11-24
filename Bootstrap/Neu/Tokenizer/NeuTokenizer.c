@@ -9,7 +9,6 @@ struct NeuTokenizer initNeuTokenizer() {
     return tokenizer;
 }
 
-
 void neuTokenizerMaybeNextFunc(
     struct NeuTokenizer * tokenizer) {
 

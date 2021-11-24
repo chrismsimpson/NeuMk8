@@ -8,6 +8,7 @@ enum NeuKeywordType {
 
 struct NeuKeyword {
 
+    const enum NeuKeywordType keywordType;
 };
 
 #endif
