@@ -3,6 +3,7 @@ project (main)
 add_executable(
     main
     Byte.c
+    Character.c
     Common.c
     main.c
     Neu/Parser/NeuParser.c
